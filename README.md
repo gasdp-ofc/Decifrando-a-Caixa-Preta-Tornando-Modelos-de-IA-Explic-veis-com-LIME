@@ -25,5 +25,5 @@ A aplicação do LIME mostrou-se útil para compreender decisões específicas, 
 
 ## 7. Referências
 - Ribeiro, M.T., Singh, S., & Guestrin, C. (2016). "Why Should I Trust You? Explaining the Predictions of Any Classifier". arXiv preprint arXiv:1602.04938.
-- Documentação oficial do LIME: https://marcotcr.github.io/lime/tutorials.html
+- Documentação oficial do LIME: https://lime.readthedocs.io/en/latest/usermanual.html
 - UCI Machine Learning Repository: Statlog (German Credit Data)
