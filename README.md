@@ -89,8 +89,10 @@ python Projeto_XAI_LIME_GermanCredit.py
 
 ---
 
+Se quiser, eu já gero um `README.md` pronto no repositório com essa versão (ou faço ajustes: nivel técnico, acrescento figuras, referências completas, versão em inglês, etc.).
 
 
+---
 
 ## 📊 Estrutura do Projeto
 
@@ -176,3 +178,4 @@ A aplicação prática desse tipo de abordagem é fundamental em setores como:
 - **Seguros** (avaliação de risco)
 
 Com isso, reforçamos que a **IA explicável** é um passo essencial para adoção segura e responsável de algoritmos na sociedade.
+
