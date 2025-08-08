@@ -89,10 +89,8 @@ python Projeto_XAI_LIME_GermanCredit.py
 
 ---
 
-Se quiser, eu já gero um `README.md` pronto no repositório com essa versão (ou faço ajustes: nivel técnico, acrescento figuras, referências completas, versão em inglês, etc.).
 
 
----
 
 ## 📊 Estrutura do Projeto
 
