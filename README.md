@@ -100,13 +100,12 @@ O repositório foi organizado da seguinte forma:
 
 ```
 .
-├── data/
-│   └── german_credit_data.csv       # Dataset original
 ├──    dados/
 │   └── Dados_de_clientes            # Exemplo de dados de cliente
 ├── images/
 │   ├── lime_example_1.png           # Exemplo de explicação LIME
 ├── Projeto_XAI_LIME_Notebook.ipynb  # Notebook principal com código e análise
+├── Projeto_XAI_LIME_Demo            # Notebook de demostração 
 ├── requirements.txt                 # Dependências do projeto
 └── README.md                        # Documentação do projeto
 ```
